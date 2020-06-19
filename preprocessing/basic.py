@@ -1,4 +1,5 @@
 import spacy
+from spacy.lang.en import English
 
 
 def to_lower(doc):
@@ -24,9 +25,22 @@ def lemmatization(doc):
 
 def preprocess(doc):
     """
-		performs to_lower and lemmatization on doc.
+		Performs to_lower and lemmatization on doc.
 		Args:
 		doc: (string)
 	"""
 
     return lemmatization(to_lower(doc))
+
+def remove_stop_words(doc):
+	'''
+		Removes stop words 
+		Args:
+		doc: (string)
+	'''
+    nlp = English()
+    my_doc = nlp(doc)
+    tokens = [token.text for token in my_doc]
+    filtered = [word for word in tokens if not(nlp.vocab[word].is_stop)]
+    
+    return ' '.join(filtered)
