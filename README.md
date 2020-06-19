@@ -7,9 +7,11 @@
 - Implement traditional IR Approach (BM25+RM3/QL) and rank documents.
 - From the shortlisted documents, combine their score with BERT's score.
 
-## Colab Link: https://colab.research.google.com/drive/1TfS2uva7uSI8tstFDacYDC2wnRaCGZ-G?usp=sharing
+## Colab Link: 
+https://colab.research.google.com/drive/1TfS2uva7uSI8tstFDacYDC2wnRaCGZ-G?usp=sharing
 
-## Dataset Link: https://drive.google.com/drive/folders/1AzQKdgQfHE6NXE7y1fdeAHJjGMkCI2ZV?usp=sharing
+## Dataset Link: 
+https://drive.google.com/drive/folders/1AzQKdgQfHE6NXE7y1fdeAHJjGMkCI2ZV?usp=sharing
 
 ## References
 
