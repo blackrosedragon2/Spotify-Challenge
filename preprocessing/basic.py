@@ -22,25 +22,25 @@ def lemmatization(doc):
 
     return " ".join([token.lemma_ for token in doc])
 
-
-def preprocess(doc):
-    """
-		Performs to_lower and lemmatization on doc.
-		Args:
-		doc: (string)
-	"""
-
-    return lemmatization(to_lower(doc))
-
 def remove_stop_words(doc):
-	'''
-		Removes stop words 
-		Args:
-		doc: (string)
-	'''
+    '''
+        Removes stop words 
+        Args:
+        doc: (string)
+    '''
     nlp = English()
     my_doc = nlp(doc)
     tokens = [token.text for token in my_doc]
     filtered = [word for word in tokens if not(nlp.vocab[word].is_stop)]
-    
+
     return ' '.join(filtered)
+
+def preprocess(doc):
+    """
+		Performs to_lower, lemmatization and removes stopwords from a doc.
+		Args:
+		doc: (string)
+	"""
+
+    return remove_stop_words(lemmatization(to_lower(doc)))
+

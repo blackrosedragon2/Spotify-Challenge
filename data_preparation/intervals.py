@@ -1,6 +1,6 @@
 import os
-
-def extract_podcasts(chapter,page: str):
+import json
+def extract_podcasts(chapter,page,path):
     '''
         Extract all json files of a given chapter and page 
         Args:
@@ -12,7 +12,7 @@ def extract_podcasts(chapter,page: str):
             out = extract_content("0", "0")
             [{results:<podcast data 1>},{results:<podcast data 2>},...] 
     '''
-    os.chdir(dir+"/podcasts-transcripts/"+chapter+"/"+page)
+    os.chdir(path+"/dataset/spotify-podcasts-2020/podcasts-transcripts/"+str(chapter)+"/"+str(page))
     podcasts = []
     for i,folder in enumerate(os.listdir()):
         podcast = {'results':[]}
@@ -39,7 +39,6 @@ def create_intervals(podcast):
     total_duration = 0
     text = ""
     podcast_list = []
-    #loops over 1 podcast's transcripts
     for i in range(len(podcast['results'])):
         try:
             for words in podcast['results'][i]['alternatives'][0]['words']:
