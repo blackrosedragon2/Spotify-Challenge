@@ -33,7 +33,7 @@ def create_intervals(podcast):
         Example:
             out = extract_content("0", "0")
             intervals = create_intervals(out[0])
-            ['Welcome to Joe Girardi narrow...', 'really something that was spoken...', 'going to the mall or...',...]
+            [{id:doc0,content:'Welcome to Joe Girardi narrow...'}, {id:doc1,content:'really something that was spoken...'}, {id:doc2,content:'going to the mall or...'},...]
 
     '''
     total_duration = 0
@@ -48,7 +48,7 @@ def create_intervals(podcast):
                     #if duration < 120 prepare to write it in transcript
                     text += words['word'] + " "
                 else:
-                    podcast_list.append(text)
+                    podcast_list.append({'id':'doc'+str(i),'content':text})
                     total_duration = 0 
                     text = words['word'] + " "
         except Exception as e:
