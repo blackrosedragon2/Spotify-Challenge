@@ -1,0 +1,60 @@
+ Good afternoon everybody.  My name is Bill Bryan and I lead the Science and Technology Directorate at the U.S. Department of Homeland Security.  Over the last several months, we’ve intensified the Department’s R&D efforts to identify and deliver information that informs our response to COVID-19.  S&T is working to identify, develop, deploy, and deploy the tools and information to support our response to this crisis.
+
+As part of our efforts, we’re leveraging the unique capabilities of S&T’s National Biodefense Analysis and Countermeasures Center to study the biology of the COVID-19 virus.  This center is a high-biocontainment laboratory located in Frederick, Maryland.  It was established in the early 2000s, in response to the Amerithrax attacks, and where we study, characterize, analyze, and develop countermeasures for biological threats to the homeland.  We work closely with the CDC, FDA, HHS, and also our Department of Defense colleagues and many others.
+
+Yesterday, I shared the emerging results of our work that we’re doing now with the Coronavirus Task Force.  And today, I would like to share certain trends that we believe are important.
+
+If I may have the first slide, please.  And while that’s coming up, our most striking observation to date is the powerful effect that solar light appears to have on killing the virus — both surfaces and in the air.  We’ve seen a similar effect with both temperature and humidity as well, where increasing the temperature and humidity or both is generally less favorable to the virus.
+
+So let me illustrate with this first slide.  If you look to the right, you’ll see that term “half-life,” with a bunch of timestamps on there.
+
+First, let me tell you what a “half-life” is.  We don’t measure the virus as far as how long it will live on the surface; we have to measure the decay of the virus in terms of its half-life, because we don’t know certain elements.  We don’t know how much a person expectorates when he — when he spits — right? — when he sneezes, whatever the case may be.  We don’t know how much virus is in there.  So it’s — that has a long — a bearing on how long the virus is going to be alive and active.  So we measure it in half life because half-life doesn’t change.
+
+So if you look at an 18-hour half-life, what you’re basically saying is that every 18 hours, the virus — it’s the life of the virus is cut in half.  So if you start with 1,000 particles of the virus, in 18 hours, you’re down to 500.  And 18 hours after that, you’re down to 250, and so on and so forth.  That’s important, as I explain in the rest of the chart.
+
+If you look at the first three lines, when you see the word “surface,” we’re talking about nonporous surfaces: door handles, stainless steel.  And if you look at the — as the temperature increases, as the humidity increases, with no sun involved, you can see how drastically the half-life goes down on that virus.  So the virus is dying at a much more rapid pace, just from exposure to higher temperatures and just from exposure to humidity.
+
+If you look at the fourth line, you inject summer — the sunlight into that.  You inject UV rays into that.  The same effects on line two — as 70 to 35 degrees with 80 percent humidity on the surface.  And look at line four, but now you inject the sun.  The half-life goes from six hours to two minutes.  That’s how much of an impact UV rays has on the virus.
+
+The last two lines are aerosols.  What does it do in the air?  We have a very unique capability — I was discussing this with the President prior to coming out; he wanted me to convey it to you — on how we do this.  I believe we’re the only lab in the country that has this capability.
+
+But if you can imagine a Home Depot bucket — a five-gallon Home Depot bucket — we’re able to take a particle — and this was developed and designed by our folks at the NBACC.  We’re able to take a particle of a virus and suspend it in the air inside of this drum and hit it with various temperatures, various humidity levels, multiple different kinds of environmental conditions, to include sunlight.  And we’re able to measure the decay of that virus while it’s suspended in the air.  This is how we do our aerosol testing.
+
+We worked with Johns Hopkin Applied Physics Lab, and we actually developed a larger drum to do actually more testing.  And it’s four times the size of that.  So this is the capability that we bring to this effort.
+
+So, in summary, within the conditions we’ve tested to date, the virus in droplets of saliva survives best in indoors and dry conditions.  The virus does not survive as well in droplets of saliva.  And that’s important because a lot of testing being done is not necessarily being done, number one, with the COVID-19 virus, and number two, in saliva or respiratory fluids.
+
+And thirdly, the virus dies the quickest in the presence of direct sunlight under these conditions.  And when you — when you look at that chart, look at the aerosol as you breathe it; you put it in a room, 70 to 75 degrees, 20 percent humidity, low humidity, it lasts — the half-life is about an hour.  But you get outside, and it cuts down to a minute and a half.  A very significant difference when it gets hit with UV rays.
+
+And, Mr. President, while there are many unknown links in the COVID-19 transmission chain, we believe these trends can support practical decision making to lower the risks associated with the virus.
+
+If I can have my next slide.
+
+And when that — while that comes up, you’ll see a number of some practical applications.  For example, increasing the temperature and humidity of potentially contaminated indoor spaces appears to reduce the stability of the virus.  And extra care may be warranted for dry environments that do not have exposure to solar light.
+
+We’re also testing disinfectants readily available.  We’ve tested bleach, we’ve tested isopropyl alcohol on the virus, specifically in saliva or in respiratory fluids.  And I can tell you that bleach will kill the virus in five minutes; isopropyl alcohol will kill the virus in 30 seconds, and that’s with no manipulation, no rubbing — just spraying it on and letting it go.  You rub it and it goes away even faster.  We’re also looking at other disinfectants, specifically looking at the COVID-19 virus in saliva.
+
+This is not the end of our work as we continue to characterize this virus and integrate our findings into practical applications to mitigate exposure and transmission.  I would like to thank the President and thank the Vice President for their ongoing support and leadership to the department and for their work in addressing this pandemic.  I would also like to thank the scientists, not only in S&T and the NBACC, but to the larger scientific and R&D community.
+
+Thank you very much.
+
+THE PRESIDENT:  Thank you, Bill.
+
+A top scientist from the Department of Homeland Security said Thursday that preliminary research shows that the coronavirus dies out more quickly in hot, humid weather than in colder, drier conditions.
+
+“Increasing the temperature and humidity … is generally less favorable to the virus,” said William Bryan, head of Science and Technology at DHS, said during the daily Coronavirus Task Force daily briefing at the White House. (Watch Mr. Bryan’s remarks under “Resources” below.)
+
+Bryan said the preliminary study showed that the half life of the virus was lower at higher temperatures and humidity than in colder weather.
+
+“If you look as the temperature increases, as the humidity increases, no sun involved, you can see how drastically the half-life goes down on the virus. So it’s dying in a much more rapid pace [with] just exposure to higher temperatures and to humidity,” Bryan continued.
+
+But he also said that it dissipates more quickly in sunlight than in the dark because ultraviolet light helps kill the bug.
+
+[Bryan said the test was done on nonporous surfaces such as door handles and stainless steel.
+“As the temperature increases, as the humidity increases, with no sun involved, you can see how drastically that half-life goes down on that virus,” Bryan said. “The virus is dying at a much more rapid pace just from exposure to higher temperatures and just from exposure to humidity.”
+
+Bryan stressed that this is not a reason to stop social distancing in summer months, and that continued testing will be done].
+
+The DHS scientist said in addition that disinfectants and household bleach were also extremely effective in killing the virus.
+
+Published at NYPost .com. Reprinted here for educational purposes only. May not be reproduced on other websites without permission from the New York Post.

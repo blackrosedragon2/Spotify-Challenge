@@ -1,0 +1,302 @@
+[
+      {
+         "num": "9",
+         "query": "trump call ukrainian president",
+         "type": "topical",
+         "description": "The White House released a rough transcript of President Donald Trump’s phone call with the Ukrainian President in November 2019. What were people saying about the conversation in the call? News items about the call are relevant."
+      },
+      {
+         "num": "10",
+         "query": "boeing 737 crash causes",
+         "type": "topical",
+         "description": "The Boeing 737 MAX passenger airliner was grounded worldwide after hundreds of people died in two crashes in 2019. What were people saying about the airline and the company? What were speculated causes of the crash? What did people think the effect would be on Boeing’s reputation? News is relevant, but so is speculation."
+      },
+      {
+         "num": "11",
+         "query": "how to cook turkey",
+         "type": "topical",
+         "description": "I’m looking for podcasts that talk about how to cook turkey well, in particular podcasts that have some information on how I can make my turkey juicier."
+      },
+      {
+         "num": "12",
+         "query": "imran khan career",
+         "type": "topical",
+         "description": "Imran Khan is the 22nd Prime Minister of Pakistan, and had a career as an international cricket star. What have people said about his career and achievements?"
+      },
+      {
+         "num": "13",
+         "query": "drug addiction recovery",
+         "type": "topical",
+         "description": "I’m interested in hearing personal stories of people that have recovered from drug and alcohol addiction. How did they find help? What did they do that helped them? Who did they reach out to?"
+      },
+      {
+         "num": "14",
+         "query": "near death experiences",
+         "type": "topical",
+         "description": "I wonder if people have shared near-death experiences in podcast episodes. I would like to find and listen to some stories. I am not interested in the science of near-death experiences."
+      },
+      {
+         "num": "15",
+         "query": "podcast about podcasts",
+         "type": "topical",
+         "description": "I would like to start a podcast. What equipment do I need? What kind of microphone? What sort of space should I use to record? What software is most helpful? What are some tips and tricks for using my voice well? I’d like to hear general tips about recording and producing podcasts."
+      },
+      {
+         "num": "16",
+         "query": "causes and prevention of wildfires",
+         "type": "topical",
+         "description": "2019 saw a large number of wildfires, in Australia, California, and the Amazon. What were people saying about them? What caused them? How could they be prevented? I am interested in news reports but also speculation, rumor, and unverified information."
+      },
+      {
+         "num": "17",
+         "query": "time between meetings",
+         "type": "topical",
+         "description": "I am looking for some ideas for things to do during breaks between meetings. I would like to take advantage of my short (half hour or less) gaps between meetings to refocus my mind or relax."
+      },
+      {
+         "num": "18",
+         "query": "women in stem",
+         "type": "topical",
+         "description": "I’d like to hear personal stories from women in science, technology, engineering, and mathematics (STEM). I am not interested in initiatives to increase women in STEM, or movements surrounding women in STEM, or news reports about the prevalence of women in STEM."
+      },
+      {
+         "num": "19",
+         "query": "ai in healthcare",
+         "type": "topical",
+         "description": "How can artificial intelligence be used to improve healthcare outcomes? What are some example uses of AI in healthcare? News reports are relevant, as is speculation from thought leaders in tech and healthcare."
+      },
+      {
+         "num": "20",
+         "query": "cost of childcare",
+         "type": "topical",
+         "description": "I’m looking for personal stories from people that have had to deal with increasing childcare costs. How did they manage? What was the effect on their lives? Reports about average increases in childcare costs are not relevant unless they include quotes from individuals about their experiences."
+      },
+      {
+         "num": "21",
+         "query": "juneteenth",
+         "type": "topical",
+         "description": "What does Juneteenth mean to people in the US? How do individuals feel about it, celebrate it, experience it? What are their thoughts and feelings about Juneteenth? Factual explanations of what Juneteenth is are not relevant."
+      },
+      {
+         "num": "22",
+         "query": "chernobyl hbo",
+         "type": "topical",
+         "description": "The series Chernobyl aired on HBO in 2019. What were people saying about it in podcasts? I am especially interested in discussions about how events depicted in the show differed from reality."
+      },
+      {
+         "num": "23",
+         "query": "notre dame fire",
+         "type": "topical",
+         "description": "The 2019 fire at Notre Dame cathedral in Paris personally affected many people around the world. I’m looking for episodes of podcasts with people talking about how it affected them, how they felt about it, their personal recollections of visiting Notre Dame or otherwise experiencing Notre Dame in some way. Factual information about the fire or about the cleaning and reconstruction effort are not relevant."
+      },
+      {
+         "num": "24",
+         "query": "france yellow vest protests",
+         "type": "topical",
+         "description": "What do people think were the causes of the yellow vest protests in Paris in 2019? What topics in politics and economics did people touch on when they talked about the protests? News stories about the protests are not relevant."
+      },
+      {
+         "num": "25",
+         "query": "black lives matter",
+         "type": "topical",
+         "description": "What do people mean when they say “black lives matter”? I am interested in personal reflections that give context to the phrase “black lives matter” and why it is important to individuals. News stores about Black Lives Matter protests are relevant as well."
+      },
+      {
+         "num": "26",
+         "query": "bob woodward",
+         "type": "topical",
+         "description": "I am looking for podcast episodes about Bob Woodward’s role in the Watergate scandal. What did he know? Where did he get his information from? What effect did it have on the investigation?"
+      },
+      {
+         "num": "27",
+         "query": "civil rights protest stories",
+         "type": "topical",
+         "description": "I’d like to hear stories about protests and protestors in the Civil Rights movement in the US in the 1960s. Stories about individual experiences with protests; individuals’ motivations for protesting; how protests like the March on Washington came to be; the roots and foundations of the movement; etc; are all relevant."
+      },
+      {
+         "num": "28",
+         "query": "yo-yo dieting",
+         "type": "topical",
+         "description": "What is yo-yo dieting? What are the benefits of it? What are the drawbacks? Does it have any dangers? Peoples’ personal experience with yo-yo dieting is especially sought."
+      },
+      {
+         "num": "29",
+         "query": "racism in canada",
+         "type": "topical",
+         "description": "How does racism appear in Canada? I’m looking for personal anecdotes about peoples’ experiences with racism in Canada. Research such as sociological research is relevant if reported on."
+      },
+      {
+         "num": "30",
+         "query": "motherhood",
+         "type": "topical",
+         "description": "I want to hear podcast episodes with new mothers relating and discussing their expectations and experiences for motherhood. Stories, conversations, panel discussions are all relevant. I’m not very interested in hearing from experienced mothers."
+      },
+      {
+         "num": "31",
+         "query": "horoscope reading cancer",
+         "type": "topical",
+         "description": "I’d like to hear horoscopes for my zodiac sign of Cancer. What’s in store for me in the future? Horoscopes that are for specific non-current time periods are relevant."
+      },
+      {
+         "num": "32",
+         "query": "giants game december 22",
+         "type": "topical",
+         "description": "I want to hear about the NY-Washington NFL football game played on December 22, 2019. Why was the game important? What were people saying leading up to it? What was the outcome? How did it affect the NFL postseason?"
+      },
+      {
+         "num": "33",
+         "query": "hvac industry environmentalism",
+         "type": "topical",
+         "description": "What is the HVAC industry doing to promote sustainability and “green” technology? Has it been effective? What is the effect on people working in the industry?"
+      },
+      {
+         "num": "34",
+         "query": "halloween stories and chat",
+         "type": "topical",
+         "description": "I love Halloween and I want to hear stories and conversations about things people have done to celebrate it. I am not looking for information about the history of Halloween or generalities about how it is celebrated, I want specific stories from individuals."
+      },
+      {
+         "num": "35",
+         "query": "living debt free",
+         "type": "topical",
+         "description": "What can I do to achieve a debt-free life? What are the benefits of being free of debt? Are there any drawbacks? I want detailed advice for living free of debt."
+      },
+      {
+         "num": "36",
+         "query": "cryptocurrency risks",
+         "type": "topical",
+         "description": "What are the risks of investing in cryptocurrencies? Many people are talking about cryptocurrency as an investment and it seems to have many benefits. Are there any drawbacks? What are they? What setbacks have people suffered when investing in cryptocurrencies?"
+      },
+      {
+         "num": "37",
+         "query": "slow travel",
+         "type": "topical",
+         "description": "What is “slow travel”? I heard about this approach to traveling the world recently when reading about sustainable living, and I’d like to hear more about it. What does it have to do with sustainability?"
+      },
+      {
+         "num": "38",
+         "query": "workplace diversity",
+         "type": "topical",
+         "description": "What are things companies are doing and could do to promote diversity in the workplace? Things like workplace programs, initiatives, education, and outreach are relevant. Discussion about the outcomes of these efforts are relevant as well."
+      },
+      {
+         "num": "39",
+         "query": "social media marketing",
+         "type": "topical",
+         "description": "I’m looking for tips and suggestions for creating a social media marketing strategy. What kinds of things do I need to think about? How can I reach the most people online? Are there companies that can help?"
+      },
+      {
+         "num": "40",
+         "query": "bees dying",
+         "type": "topical",
+         "description": "There have been numerous news reports of bees and other pollinators dying. I want to learn what I can do personally to help bees and other pollinators. General discussions about habitat loss are not relevant."
+      },
+      {
+         "num": "41",
+         "query": "gmo food labeling",
+         "type": "topical",
+         "description": "Some people say we should avoid foods with genetically-modified organisms as ingredients. I would like to learn about GMO food labeling. What are people saying about the pros and cons? What’s the difference between the European and US approaches to GMO food labeling?"
+      },
+      {
+         "num": "42",
+         "query": "fyre festival",
+         "type": "topical",
+         "description": "Fyre Festival was a failed music festival which was planned to happen in 2017 on Bahamas. The festival was marketed through a number of social media channels, but the organisers did not deliver what they had promised the attendees in terms of accommodation and other infrastructure, and many of the billed artists never showed. The festival was the topic for several documentaries in 2019. I want to hear first person accounts of the festival, interviews with people associated with the festival, and about the legal repercussions."
+      },
+      {
+         "num": "43",
+         "query": "hong kong protests",
+         "type": "topical",
+         "description": "Since early 2019, more or less continuous protests have taken place in Hong Kong, to mark popular displeasure with various aspects of power shifting from the local governing council to the Chinese central government. Students from the many Hong Kong universities have been at the forefront of the protests. I want to know more about who is protesting along with the students and what the popular sentiment in the general Hong Kong population is."
+      },
+      {
+         "num": "44",
+         "query": "thanksgiving comedy special",
+         "type": "refinding",
+         "description": "I remember hearing on the radio a comedy special recorded for Thanksgiving by Jack Benny. Can I find it as a podcast?"
+      },
+      {
+         "num": "45",
+         "query": "drafting tight ends",
+         "type": "refinding",
+         "description": "I heard a podcast about strategies for drafting tight ends in football. I’d like to find it again."
+      },
+      {
+         "num": "46",
+         "query": "missouri quilt mom",
+         "type": "refinding",
+         "description": "I listened to a podcast about a stay-at-home mom in Missouri who opened a quilt company and I would like to hear it again."
+      },
+      {
+         "num": "47",
+         "query": "sci-fi author interview mars",
+         "type": "refinding",
+         "description": "I heard this interview with a sci-fi author who wrote a book or books with “Mars” in the title, but I can’t recall his name. I’d like to find it again."
+      },
+      {
+         "num": "48",
+         "query": "spike lee movie score",
+         "type": "refinding",
+         "description": "Spike Lee movies have well curated scores. I heard a podcast interview where he talked about one of his movies and the process of curating the score. What was it?"
+      },
+      {
+         "num": "49",
+         "query": "thrift store smell",
+         "type": "refinding",
+         "description": "I want to find an episode I heard about the science of the distinctive smell of thrift stores."
+      },
+      {
+         "num": "50",
+         "query": "coast guard coxswain",
+         "type": "refinding",
+         "description": "I heard an interview with a Coast Guard coxswain who had survived hurricanes in Guam. I’d like to find it again."
+      },
+      {
+         "num": "51",
+         "query": "queer eye veteran",
+         "type": "refinding",
+         "description": "I heard a podcast featuring a US military veteran who went on Queer Eye for a makeover and I would like to listen to it again."
+      },
+      {
+         "num": "52",
+         "query": "fauci interview",
+         "type": "known item",
+         "description": "An article about COVID-19 referenced an interview with Dr. Fauci that took place when the virus had not yet reached the US. I would like to listen to it."
+      },
+      {
+         "num": "53",
+         "query": "recommended books for entrepreneurs",
+         "type": "known item",
+         "description": "I was told about a podcast that recommended good books for entrepreneurs. I’m trying to find that episode."
+      },
+      {
+         "num": "54",
+         "query": "bias in college admissions",
+         "type": "known item",
+         "description": "I read an article that mentioned a podcast about bias in college admissions. I would like to listen to it but I don’t know the name of the show."
+      },
+      {
+         "num": "55",
+         "query": "malcolm x biography",
+         "type": "known item",
+         "description": "I heard about a podcast biography of Malcolm X and I would like to listen to it."
+      },
+      {
+         "num": "56",
+         "query": "gaslighting",
+         "type": "known item",
+         "description": "On Twitter I saw someone reference a podcast interview with a doctor about gaslighting within organizational systems and I would like to hear it."
+      },
+      {
+         "num": "57",
+         "query": "nefertiti",
+         "type": "known item",
+         "description": "I want to hear a podcast I know about that is about Nefertiti."
+      },
+      {
+         "num": "58",
+         "query": "sam bush interview",
+         "type": "known item",
+         "description": "A bluegrass magazine I read mentioned a podcast interview with Sam Bush. I’d like to hear it."
+      }
+]

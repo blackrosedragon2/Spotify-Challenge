@@ -1,0 +1,50 @@
+<topics set="training">
+<topic>
+<num>1</num>
+<query>coronavirus spread</query>
+<type>topical</type>
+<description>What were people saying about the spread of the novel coronavirus NCOV-19 in Wuhan at the end of 2019?</description>
+</topic>
+<topic>
+<num>2</num>
+<query>greta thunberg cross atlantic</query>
+<type>topical</type>
+<description>What were people saying about Greta Thunberg’s sailing trip across the Atlantic Ocean in the fall of 2019 and its relationship to global climate change?</description>
+</topic>
+<topic>
+<num>3</num>
+<query>black hole image</query>
+<type>topical</type>
+<description>In May 2019 astronomers released the first-ever picture of a black hole. I would like to hear some conversations and educational discussion about the science of astronomy, black holes, and of the picture itself.</description>
+</topic>
+<topic>
+<num>4</num>
+<query>story about riding a bird</query>
+<type>refinding</type>
+<description>I remember hearing a podcast that had a story about a kid riding some kind of bird. I want to find it again.</description>
+</topic>
+<topic>
+<num>5</num>
+<query>daniel ek interview</query>
+<type>known item</type>
+<description>Someone told me about a podcast interview with Daniel Ek, CEO of Spotify, about the founding and early days of Spotify. I would like to find the show and episode that contains that interview. Other interviews with Ek are relevant as well.</description>
+</topic>
+<topic>
+<num>6</num>
+<query>michelle obama becoming</query>
+<type>topical</type>
+<description>Former First Lady Michelle Obama’s memoir Becoming was published in early 2019. What were people saying about it?</description>
+</topic>
+<topic>
+<num>7</num>
+<query>anna delvey</query>
+<type>topical</type>
+<description>Anna Sorokina moved to New York City in 2013 and posed as wealthy German heiress Anna Delvey. In 2019 she was convicted of grand larceny, theft, and fraud. What were people saying about her, the charges, her trial, and New York socialite society in general?</description>
+</topic>
+<topic>
+<num>8</num>
+<query>facebook stock prediction</query>
+<type>topical</type>
+<description>After Facebook’s Q4 2018 earnings call, what were experts’ predictions and expectations for its stock price in 2019? How did these predictions fare over time? Relevant material would include predictions immediately following the Jan 29, 2019, earnings call, and later actual stock performance that could be used to evaluate predictions.</description>
+</topic>
+</topics>

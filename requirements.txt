@@ -1,2 +1,10 @@
 spacy==2.3.0
 rank_bm25
+pyserini==0.9.3.1
+transformers==2.11.0
+pickle
+torch
+tensorboardX==2.0
+pyarrow==1.16.0
+ohmeow-blurr
+nlp

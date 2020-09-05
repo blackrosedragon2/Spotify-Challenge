@@ -1,0 +1,50 @@
+[
+      {
+         "num": "1",
+         "query": "coronavirus spread",
+         "type": "topical",
+         "description": "What were people saying about the spread of the novel coronavirus NCOV-19 in Wuhan at the end of 2019?"
+      },
+      {
+         "num": "2",
+         "query": "greta thunberg cross atlantic",
+         "type": "topical",
+         "description": "What were people saying about Greta Thunberg’s sailing trip across the Atlantic Ocean in the fall of 2019 and its relationship to global climate change?"
+      },
+      {
+         "num": "3",
+         "query": "black hole image",
+         "type": "topical",
+         "description": "In May 2019 astronomers released the first-ever picture of a black hole. I would like to hear some conversations and educational discussion about the science of astronomy, black holes, and of the picture itself."
+      },
+      {
+         "num": "4",
+         "query": "story about riding a bird",
+         "type": "refinding",
+         "description": "I remember hearing a podcast that had a story about a kid riding some kind of bird. I want to find it again."
+      },
+      {
+         "num": "5",
+         "query": "daniel ek interview",
+         "type": "known item",
+         "description": "Someone told me about a podcast interview with Daniel Ek, CEO of Spotify, about the founding and early days of Spotify. I would like to find the show and episode that contains that interview. Other interviews with Ek are relevant as well."
+      },
+      {
+         "num": "6",
+         "query": "michelle obama becoming",
+         "type": "topical",
+         "description": "Former First Lady Michelle Obama’s memoir Becoming was published in early 2019. What were people saying about it?"
+      },
+      {
+         "num": "7",
+         "query": "anna delvey",
+         "type": "topical",
+         "description": "Anna Sorokina moved to New York City in 2013 and posed as wealthy German heiress Anna Delvey. In 2019 she was convicted of grand larceny, theft, and fraud. What were people saying about her, the charges, her trial, and New York socialite society in general?"
+      },
+      {
+         "num": "8",
+         "query": "facebook stock prediction",
+         "type": "topical",
+         "description": "After Facebook’s Q4 2018 earnings call, what were experts’ predictions and expectations for its stock price in 2019? How did these predictions fare over time? Relevant material would include predictions immediately following the Jan 29, 2019, earnings call, and later actual stock performance that could be used to evaluate predictions."
+      }
+]
